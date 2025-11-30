@@ -1,5 +1,5 @@
 # Experiencer_classic
-Experience bar replacement for World of Warcraft.
+Experience bar replacement for World of Warcraft classic
 
 ## Description
 Experiencer is a minimum configuration required experience bar addon. It adds multi purpose experience, reputation, artifact power, honor and conquest progress bar to the bottom or the top of the screen. The bar can also be split in up to three different sections to display multiple data sources simultaneously. 
@@ -36,4 +36,5 @@ Experiencer uses Ace3, LibSharedMedia and LibDataBroker which are included in th
 
 ## License
 Experiencer is licensed under MIT license. See license terms in file LICENSE.
+
 
