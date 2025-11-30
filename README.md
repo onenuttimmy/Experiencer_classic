@@ -10,10 +10,6 @@ When tracking experience the addon will display your current rested percentage, 
 
 Once you have reached the maximum level experiencer will change to displaying reputation progress. It displays the current level, reputation required to next level and percentage of the same value. By default the Experiencer will also attempt to automatically track the faction with whom you have last gained reputation.
 
-If available Experiencer can also track artifact power, honor and conquest.
-* Artifact power tracking will unlock after you gain the Heart of Azeroth.
-* Conquest tracking unlocks at level 120.
-
 **Note!** Experiencer *will not* hide the existing experience bar by Blizzard and you need to use a separate addon to do that. Usually an action bar replacement addon (Dominos or Bartender) will allow you to hide it and using one with this addon is recommended anyway.
 
 By default the bar is colored the class color of the character you are playing but it can be changed in the options.
@@ -36,5 +32,6 @@ Experiencer uses Ace3, LibSharedMedia and LibDataBroker which are included in th
 
 ## License
 Experiencer is licensed under MIT license. See license terms in file LICENSE.
+
 
 
