@@ -1,4 +1,4 @@
-# Experiencer
+# Experiencer_classic
 Experience bar replacement for World of Warcraft.
 
 ## Description
@@ -36,3 +36,4 @@ Experiencer uses Ace3, LibSharedMedia and LibDataBroker which are included in th
 
 ## License
 Experiencer is licensed under MIT license. See license terms in file LICENSE.
+
