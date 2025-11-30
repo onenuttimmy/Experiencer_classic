@@ -14,8 +14,6 @@ Once you have reached the maximum level experiencer will change to displaying re
 
 By default the bar is colored the class color of the character you are playing but it can be changed in the options.
 
-Experiencer also adds a DataBroker module that displays current text if you wish to place it elsewhere. To freely place it anywhere check out my DataBroker display addon [Candy](https://www.curseforge.com/wow/addons/candy). In case Experiencer is split in to more than one section the left most bar will be used as the data source for DataBroker text.
-
 ### Usage and Shortcuts
 
 Experiencer options can be accessed by right clicking the bar or the DataBroker module. In order to make things smoother there are a few useful shortcuts.
@@ -32,6 +30,7 @@ Experiencer uses Ace3, LibSharedMedia and LibDataBroker which are included in th
 
 ## License
 Experiencer is licensed under MIT license. See license terms in file LICENSE.
+
 
 
 
